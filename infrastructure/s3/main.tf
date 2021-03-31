@@ -13,7 +13,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "deployer-s3" {
-  bucket = "deployer"
+  bucket = "jjpaters-deployer"
   acl = "private"
   tags = {
     Application = "Deployer"
