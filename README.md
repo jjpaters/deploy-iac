@@ -1,4 +1,3 @@
 # Deploy IAC
 
-Infrastructure for Deploy; a AWS solution for deploying static sites to traditional web hosting.
-
+An AWS solution for deploying static sites build using CI/CD tools, such as CircleCI, to traditional web hosting.
